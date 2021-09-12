@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "75475426108",
+    "project_id": "fbfb-e2056",
+    "storage_bucket": "fbfb-e2056.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75475426108:android:77a2156140a1fda17cdc39",
+        "android_client_info": {
+          "package_name": "com.example.fb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75475426108-jd873i5srlt01a8o2860vumdh6e96ct7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fb",
+            "certificate_hash": "47d7e8776845ddf36a0229126f34681eef3a58a5"
+          }
+        },
+        {
+          "client_id": "75475426108-b9es8ut09iumtshvk205der6u5biak0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVOeIdFn7p4J0_WTu8Iz-CeOVSVZRyLW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75475426108-b9es8ut09iumtshvk205der6u5biak0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
